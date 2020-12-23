@@ -22,6 +22,6 @@ https://colab.research.google.com/github/wongi-park/Funding-classify/blob/main/w
     View source on GitHub</a>
   </td>
   <td>
-    <a href="https://storage.googleapis.com/tensorflow_docs/docs/site/en/tutorials/text/word_embeddings.ipynb"><img src="https://www.tensorflow.org/images/download_logo_32px.png" />Download notebook</a>
+    <a href="https://raw.githubusercontent.com/wongi-park/Funding-classify/main/wadiz_classifications_pytorch_kobert_load.ipynb"><img src="https://www.tensorflow.org/images/download_logo_32px.png" />Download notebook</a>
   </td>
 </table>
