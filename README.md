@@ -17,7 +17,7 @@ https://colab.research.google.com/github/wongi-park/Funding-classify/blob/main/w
     Run in Google Colab</a>
   </td>
   <td>
-    <a target="_blank" href="https://github.com/tensorflow/docs/blob/master/site/en/tutorials/text/word_embeddings.ipynb">
+    <a target="_blank" href="https://github.com/wongi-park/Funding-classify/blob/main/wadiz_classifications_pytorch_kobert_load.ipynb">
     <img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />
     View source on GitHub</a>
   </td>
