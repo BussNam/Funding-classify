@@ -5,6 +5,7 @@
 
 https://colab.research.google.com/github/wongi-park/Funding-classify/blob/main/wadiz_classifications_pytorch_kobert_load.ipynb
 
+<html>
 <table class="tfo-notebook-buttons" align="left">
 <!--  <td>
     <a target="_blank" href="https://www.tensorflow.org/tutorials/text/word_embeddings">
@@ -25,3 +26,4 @@ https://colab.research.google.com/github/wongi-park/Funding-classify/blob/main/w
     <a href="https://raw.githubusercontent.com/wongi-park/Funding-classify/main/wadiz_classifications_pytorch_kobert_load.ipynb"><img src="https://www.tensorflow.org/images/download_logo_32px.png" />Download notebook</a>
   </td>
 </table>
+</html>
